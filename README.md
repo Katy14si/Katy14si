@@ -2,4 +2,6 @@
 
 - 🔭 Hoje trabalho com linguagem LSP 
 - 🌱 Estudando React 
+- Bacharel em Sistemas de Informação
+- Mãe do Gael
 
